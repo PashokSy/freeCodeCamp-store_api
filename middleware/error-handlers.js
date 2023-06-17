@@ -5,4 +5,4 @@ const errorHandlerMiddleware = async (err, req, res, next) => {
     .json({ message: 'Unexpected error, please try again' });
 };
 
-module.export = errorHandlerMiddleware;
+module.exports = errorHandlerMiddleware;
