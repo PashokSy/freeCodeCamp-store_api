@@ -4,7 +4,7 @@
   "description": "This app developed during the course on [https://youtu.be/qwfE7fSVaZM?t=11241]",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "nodemon app.js"
   },
   "keywords": [],
   "author": "",
